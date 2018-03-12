@@ -6,4 +6,4 @@ It designed and wrote processes payroll data for a collection of employees. Empl
 Hourly employees, nevertheless, receive pay that is determined by their hourly rate times the actual hours worked. 
 The payroll system will print out the last name of each employee along with the pay due to the employee, separated by a space. This mimics a tangible payroll system, that utilizes this information actually to print and cut the checks.
 
-https://www.gulf-up.com/03-2018/1520881594041.png
+<a href="https://www.gulf-up.com/" target="_blank" title="https://www.gulf-up.com/"><img src="https://www.gulf-up.com/03-2018/1520881594041.png" border="0" alt="https://www.gulf-up.com/03-2018/1520881594041.png" /></a>
